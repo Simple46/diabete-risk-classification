@@ -83,12 +83,12 @@ pure_eval==0.2.4
 pyarrow==26.0.0
 pycparser==3.12
 pydeck==0.9.3
-# Pygments==2.21.0
+Pygments==2.21.0
 pyparsing==3.3.3
 python-dateutil==3.0.0
 python-json-logger==4.2.0
 python-multipart==0.0.32
-pywinpty==3.1.2
+# pywinpty==3.1.2
 PyYAML==6.0.3
 pyzmq==27.2.0
 referencing==0.37.0
